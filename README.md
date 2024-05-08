@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krishna Javvaji</h1>
 <h3 align="center">With a Master of Science in Computer Science and a Bachelor of Science in Electronics and Communications Engineering, I have a strong background in data engineering, ETL solutions, and cloud technologies. I am actively seeking cloud data engineer roles where I can leverage my expertise and contribute to innovative and impactful solutions.</h3>
 
-- 🌱 I’m currently learning **Cloud Data Engineering**
+- Microsoft CErtified : Azure AI Fundamentals
+
+- 🌱 I’m currently learning **AI / Machine Learning**
 
 - 💬 Ask me about **GenAI, Data Visualization**
 
